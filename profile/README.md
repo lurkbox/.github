@@ -14,6 +14,6 @@
 | [lurkbox](https://github.com/lurkbox/lurkbox) | The app: desktop (AppImage, with Flatpak planned) now, Android later |
 | [decky-lurkbox](https://github.com/lurkbox/decky-lurkbox) | A [Decky Loader](https://github.com/SteamDeckHomebrew/decky-loader) plugin that sends go-live notifications for channels you follow, even mid-game |
 
-> **AI disclosure:** Lurkbox is vibe-coded. Claude (Anthropic's AI coding assistant) wrote nearly all of the code, artwork and docs, directed and tested by [aronwk-aaron](https://github.com/aronwk-aaron). Human review has been limited, so expect rough edges.
+> **AI disclosure:** Lurkbox is vibe-coded. Claude (Anthropic's AI coding assistant) wrote nearly all of the code, artwork and docs, and it was tested by hand. Human review has been limited, so expect rough edges.
 
 Lurkbox is not affiliated with or endorsed by Twitch. Licensed under GPL-3.0.
